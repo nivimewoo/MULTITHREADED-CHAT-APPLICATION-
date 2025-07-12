@@ -34,3 +34,6 @@ Multithreading (Thread, Runnable)
 Client-server architecture
 Broadcasting messages
 
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/e2bd6f2b-ca0c-4a2e-8d51-53a07014413a)
